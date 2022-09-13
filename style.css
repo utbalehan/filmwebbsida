@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(157, 221, 238);
+    font-family: Verdana, sans-serif;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+}
+
+h1 {
+
+
+font-size: 1.7rem;
+}
+
+img{
+    margin-left: 10px;
+    height: 300px;
+}
